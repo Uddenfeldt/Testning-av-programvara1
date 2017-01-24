@@ -1,0 +1,11 @@
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumGoogle\SeleniumGoogle\bin\Debug\SeleniumGoogle.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumGoogle\SeleniumGoogle\obj\Debug\SeleniumGoogle.csprojResolveAssemblyReference.cache
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumGoogle\SeleniumGoogle\bin\Debug\SeleniumGoogle.exe
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumGoogle\SeleniumGoogle\bin\Debug\SeleniumGoogle.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumGoogle\SeleniumGoogle\bin\Debug\WebDriver.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumGoogle\SeleniumGoogle\bin\Debug\WebDriver.Support.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumGoogle\SeleniumGoogle\bin\Debug\WebDriver.xml
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumGoogle\SeleniumGoogle\bin\Debug\WebDriver.Support.xml
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumGoogle\SeleniumGoogle\obj\Debug\SeleniumGoogle.exe
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumGoogle\SeleniumGoogle\obj\Debug\SeleniumGoogle.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumGoogle\SeleniumGoogle\bin\Debug\geckodriver.exe

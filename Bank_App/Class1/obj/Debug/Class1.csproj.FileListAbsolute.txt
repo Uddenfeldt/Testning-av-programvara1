@@ -1,0 +1,18 @@
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Class1\obj\Debug\Class1.csprojResolveAssemblyReference.cache
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Class1\bin\Debug\Class1.dll
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Class1\bin\Debug\Class1.pdb
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Class1\bin\Debug\Converter.dll
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Class1\bin\Debug\nunit.framework.dll
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Class1\bin\Debug\Converter.pdb
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Class1\bin\Debug\nunit.framework.xml
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Class1\obj\Debug\Class1.dll
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Class1\obj\Debug\Class1.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Class1\bin\Debug\Class1.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Class1\bin\Debug\Class1.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Class1\bin\Debug\Converter.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Class1\bin\Debug\nunit.framework.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Class1\bin\Debug\Converter.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Class1\bin\Debug\nunit.framework.xml
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Class1\obj\Debug\Class1.csprojResolveAssemblyReference.cache
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Class1\obj\Debug\Class1.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Class1\obj\Debug\Class1.pdb

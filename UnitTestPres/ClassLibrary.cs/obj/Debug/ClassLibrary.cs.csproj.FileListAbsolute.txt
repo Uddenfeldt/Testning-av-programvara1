@@ -1,0 +1,4 @@
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\UnitTestPres\ClassLibrary.cs\bin\Debug\ClassLibrary.cs.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\UnitTestPres\ClassLibrary.cs\bin\Debug\ClassLibrary.cs.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\UnitTestPres\ClassLibrary.cs\obj\Debug\ClassLibrary.cs.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\UnitTestPres\ClassLibrary.cs\obj\Debug\ClassLibrary.cs.pdb

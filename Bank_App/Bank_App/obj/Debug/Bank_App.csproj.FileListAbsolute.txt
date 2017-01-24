@@ -1,0 +1,16 @@
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Bank_App\bin\Debug\Bank_App.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Bank_App\bin\Debug\Bank_App.exe
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Bank_App\bin\Debug\Bank_App.pdb
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Bank_App\obj\Debug\Bank_App.csprojResolveAssemblyReference.cache
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Bank_App\obj\Debug\Bank_App.exe
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Bank_App\obj\Debug\Bank_App.pdb
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Bank_App\bin\Debug\Converter.dll
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\Bank_App\Bank_App\bin\Debug\Converter.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Bank_App\bin\Debug\Bank_App.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Bank_App\obj\Debug\Bank_App.exe
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Bank_App\obj\Debug\Bank_App.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Bank_App\bin\Debug\Bank_App.exe
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Bank_App\bin\Debug\Bank_App.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Bank_App\bin\Debug\Converter.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Bank_App\bin\Debug\Converter.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\Bank_App\Bank_App\obj\Debug\Bank_App.csprojResolveAssemblyReference.cache

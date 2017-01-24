@@ -1,0 +1,11 @@
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumLyko\SeleniumLyko\bin\Debug\SeleniumLyko.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumLyko\SeleniumLyko\bin\Debug\geckodriver.exe
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumLyko\SeleniumLyko\bin\Debug\SeleniumLyko.exe
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumLyko\SeleniumLyko\bin\Debug\SeleniumLyko.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumLyko\SeleniumLyko\bin\Debug\WebDriver.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumLyko\SeleniumLyko\bin\Debug\WebDriver.Support.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumLyko\SeleniumLyko\bin\Debug\WebDriver.xml
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumLyko\SeleniumLyko\bin\Debug\WebDriver.Support.xml
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumLyko\SeleniumLyko\obj\Debug\SeleniumLyko.csprojResolveAssemblyReference.cache
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumLyko\SeleniumLyko\obj\Debug\SeleniumLyko.exe
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\SeleniumLyko\SeleniumLyko\obj\Debug\SeleniumLyko.pdb

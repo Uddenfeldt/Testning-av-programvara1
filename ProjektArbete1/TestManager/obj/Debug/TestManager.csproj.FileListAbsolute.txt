@@ -1,0 +1,6 @@
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\ProjektArbete1\TestManager\bin\Debug\TestManager.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\ProjektArbete1\TestManager\bin\Debug\TestManager.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\ProjektArbete1\TestManager\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\ProjektArbete1\TestManager\obj\Debug\TestManager.csprojResolveAssemblyReference.cache
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\ProjektArbete1\TestManager\obj\Debug\TestManager.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\ProjektArbete1\TestManager\obj\Debug\TestManager.pdb

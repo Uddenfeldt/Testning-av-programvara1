@@ -1,0 +1,8 @@
+C:\Users\marcu\Desktop\VS grejjer\Leka\Leka\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.exe
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\UnitTestPres\UnitTestPres\bin\Debug\UnitTestPres.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\UnitTestPres\UnitTestPres\bin\Debug\nunit.framework.dll
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\UnitTestPres\UnitTestPres\bin\Debug\nunit.framework.xml
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\UnitTestPres\UnitTestPres\obj\Debug\UnitTestPres.exe
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\Mina projekt\UnitTestPres\UnitTestPres\obj\Debug\UnitTestPres.pdb
