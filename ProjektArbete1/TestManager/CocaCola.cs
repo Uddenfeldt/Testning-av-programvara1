@@ -1,9 +1,12 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
-namespace UnitTestProject1
+
+namespace ProjektArbete
 {
     public class CocaCola
     {
+        // Adrian
         // 1. Here are two methods. The first wil make the unit test
         // fail. And the second will make it pass
 
@@ -19,6 +22,7 @@ namespace UnitTestProject1
         //    return numbers;
         //}
 
+        // Marc
         // 2. The GetCocaCola method now takes and argument as the roof and 
         // the second test passes.
 
@@ -40,6 +44,7 @@ namespace UnitTestProject1
         //    return numbers;
         //}
 
+        // Adrian
         // 3. Here is the GetCocaCola method so that test 3 would pass:
 
         //public List<string> GetFizzBuzz(int roof)
@@ -99,9 +104,12 @@ namespace UnitTestProject1
             {
                 sequence.Add(GetNextCocaCola(i));
             }
+
             return sequence;
         }
 
+
+        // Marc
         // 4. Here is what our GetNextCocaCola method looked like when test failed. Under this section
         // is the rewritten code so that test 4 passes. 
 
@@ -125,28 +133,28 @@ namespace UnitTestProject1
             {
                 nextCocaCola = "Coca";
                 isCocaOrCola = true;
+
+
             }
             else if (position % 5 == 0)
             {
                 nextCocaCola = "Cola";
                 isCocaOrCola = true;
+
             }
             else
             {
                 nextCocaCola = position.ToString();
+
             }
 
             if (isCocaOrCola && position % 3 == 0 && position % 5 == 0)
             {
                 nextCocaCola = "CocaCola";
+
             }
             return nextCocaCola;
-        }
-
-        public void WriteCocaCola()
-        {
 
         }
-
     }
 }
